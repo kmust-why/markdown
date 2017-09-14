@@ -15,7 +15,7 @@
 - 内部链接1，链接仓库的其他文档:
 [内部链接1] `[内部链接1]`
 - 内部链接2，链接本文档的其他部分:
-[代码块demo] `[4. 代码块demo]`
+[4. 代码块demo] `[4. 代码块demo]`
 
 ## 2. 图片demo
 其中[]里面放的为alt,()里面放的为url,text，  
@@ -23,10 +23,13 @@
  
          ![alt](url text) `![alt](url text)`
 - 外部图片  
-![baidu](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502687968157&di=0c8b12b9630c5a93ae34b4327b3412e2&imgtype=0&src=http%3A%2F%2Fgb.cri.cn%2Fmmsource%2Fimages%2F2008%2F02%2F13%2Fei080213005.jpg '百度图片')  `![baidu](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502687968157&di=0c8b12b9630c5a93ae34b4327b3412e2&imgtype=0&src=http%3A%2F%2Fgb.cri.cn%2Fmmsource%2Fimages%2F2008%2F02%2F13%2Fei080213005.jpg '百度图片')`
+![baidu](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502687968157&di=0c8b12b9630c5a93ae34b4327b3412e2&imgtype=0&src=http%3A%2F%2Fgb.cri.cn%2Fmmsource%2Fimages%2F2008%2F02%2F13%2Fei080213005.jpg '百度图片')  
+
+`![baidu](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502687968157&di=0c8b12b9630c5a93ae34b4327b3412e2&imgtype=0&src=http%3A%2F%2Fgb.cri.cn%2Fmmsource%2Fimages%2F2008%2F02%2F13%2Fei080213005.jpg '百度图片')`
 - 仓库内的图片 ，此时alt,text参数可以省略  
 
 ![](images/timg.jpg) `![](images/timg.jpg)`
+
 - 图片的引用式链接 
 
 ![baidu][baidu_logo] `![baidu][baidu_logo]`
