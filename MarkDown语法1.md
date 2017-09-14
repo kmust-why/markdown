@@ -52,7 +52,7 @@
  ```markdown
  - name:why
   - name:why
-    - name:why(无效)
+    - name:why
 - QQ:1563713769
   - QQ:1563713769
     - QQ:1563713769
@@ -61,7 +61,9 @@
 ### 4.2 有序列表
 王海云的个人信息：
 1. name:why  
+  1. name:why
 2. QQ:1563713769
+  2. QQ:1563713769
 
 ```markdown
 1. name:why  
